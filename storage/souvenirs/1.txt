@@ -1,0 +1,1 @@
+{"id":1,"price":100.0,"producer":{"country":{"id":1,"name":"Ukraine"},"id":1,"name":"Ivanov"},"title":"cup","yearOfIssue":2018}
